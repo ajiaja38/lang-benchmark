@@ -1,0 +1,14 @@
+/home/enigma/Documents/Programming/Backend/benchmark-lang/csharp-speed/bin/Debug/net8.0/csharp-speed
+/home/enigma/Documents/Programming/Backend/benchmark-lang/csharp-speed/bin/Debug/net8.0/csharp-speed.deps.json
+/home/enigma/Documents/Programming/Backend/benchmark-lang/csharp-speed/bin/Debug/net8.0/csharp-speed.runtimeconfig.json
+/home/enigma/Documents/Programming/Backend/benchmark-lang/csharp-speed/bin/Debug/net8.0/csharp-speed.dll
+/home/enigma/Documents/Programming/Backend/benchmark-lang/csharp-speed/bin/Debug/net8.0/csharp-speed.pdb
+/home/enigma/Documents/Programming/Backend/benchmark-lang/csharp-speed/obj/Debug/net8.0/csharp-speed.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Documents/Programming/Backend/benchmark-lang/csharp-speed/obj/Debug/net8.0/csharp-speed.AssemblyInfoInputs.cache
+/home/enigma/Documents/Programming/Backend/benchmark-lang/csharp-speed/obj/Debug/net8.0/csharp-speed.AssemblyInfo.cs
+/home/enigma/Documents/Programming/Backend/benchmark-lang/csharp-speed/obj/Debug/net8.0/csharp-speed.csproj.CoreCompileInputs.cache
+/home/enigma/Documents/Programming/Backend/benchmark-lang/csharp-speed/obj/Debug/net8.0/csharp-speed.dll
+/home/enigma/Documents/Programming/Backend/benchmark-lang/csharp-speed/obj/Debug/net8.0/refint/csharp-speed.dll
+/home/enigma/Documents/Programming/Backend/benchmark-lang/csharp-speed/obj/Debug/net8.0/csharp-speed.pdb
+/home/enigma/Documents/Programming/Backend/benchmark-lang/csharp-speed/obj/Debug/net8.0/csharp-speed.genruntimeconfig.cache
+/home/enigma/Documents/Programming/Backend/benchmark-lang/csharp-speed/obj/Debug/net8.0/ref/csharp-speed.dll
